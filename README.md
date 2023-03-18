@@ -1,2 +1,2 @@
-# Tarea2.-Inferencia-Estad-stica
- 
+# Tarea2. Inferencia-Estadística
+ En este reposit
