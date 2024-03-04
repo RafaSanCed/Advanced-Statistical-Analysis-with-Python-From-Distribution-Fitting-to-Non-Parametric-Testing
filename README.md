@@ -1,1 +1,1 @@
-# Tarea2. Inferencia-Estadística
+# Inferencia-Estadística
